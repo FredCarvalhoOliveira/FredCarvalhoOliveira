@@ -1,4 +1,8 @@
-### Hi there 👋
+## Who am I?
+
+My name is Frederico Oliveira, I'm 24 years old and living in Portugal 🇵🇹
+
+I'm extremely passionate about Computer Vision and Machine Learning, my dream is to make a significant contribution in these areas.
 
 
 ## Tools of choice:
@@ -16,3 +20,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/frederico-carvalho-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frederico-carvalho-oliveira" height="30" width="40" /></a>
 </p>
+
