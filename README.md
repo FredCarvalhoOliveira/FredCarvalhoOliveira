@@ -1,8 +1,10 @@
 ## Who am I?
 
-My name is Frederico Oliveira, I'm 24 years old and living in Portugal 🇵🇹
+### My name is Frederico Oliveira, I'm 24 years old and living in Portugal 🇵🇹
 
-I'm extremely passionate about Computer Vision and Machine Learning, my dream is to make a significant contribution in these areas.
+I'm extremely passionate about the fields of Computer Vision and Machine Learning.
+
+My dream is to become a renowned CV/ML Engineer and make a significant contribution in these areas.
 
 
 ## Tools of choice:
