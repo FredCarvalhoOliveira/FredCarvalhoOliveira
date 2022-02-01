@@ -1,10 +1,9 @@
-## Who am I?
+<h1 align="center">Hi! I'm Frederico Oliveira 👋</h1>
 
-### My name is Frederico Oliveira, I'm 24 years old and living in Portugal 🇵🇹
+<h3 align="center">I'm 24 years old and living in Portugal 🇵🇹</h3>
 
-#### I'm extremely passionate about the fields of Computer Vision and Machine Learning.
-
-#### My dream is to become a renowned CV/ML Engineer and make a significant contribution in these areas.
+<h4 align="center">I'm extremely passionate about the fields of Computer Vision and Machine Learning.</h4>
+<h4 align="center">My dream is to become a renowned CV/ML Engineer and make a significant contribution in these areas.</h4>
 
 
 ## Tools of choice:
